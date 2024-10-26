@@ -2,8 +2,11 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Jh'nmdz
-<div align="center">Developer FullStack | Technical Content Writer | Data Analysis Enthusiast</div>
+
+<div align="center">
+  ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Jh'nmdz
+  Developer FullStack | Technical Content Writer | Data Analysis Enthusiast
+</div>
 
 <br>
 <br>
