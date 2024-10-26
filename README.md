@@ -12,10 +12,8 @@
 <br>
 
 <p align="center">
-  Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos desafíos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
+  I like to code, design, innovate and experiment. I am an enthusiastic and sociable person who loves to take on new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </p>
-
-<hr>
 
 ## 👨‍💻 About Me:
 
