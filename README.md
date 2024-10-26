@@ -49,6 +49,9 @@
     <a href="https://github.com/3CH0PR3/GeaWrc.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=GeaWrc" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/3CH0PR3/playerJS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=playerJS" alt="GitHub Stats" />
+    </a>
 </div>
 
 <br>
