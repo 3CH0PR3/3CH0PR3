@@ -28,7 +28,7 @@
 
 <br>
 
-## ⭐ About Some Stats
+## ⭐ About Some Stats:
 <div align="center">
   <img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <img src="https://img.shields.io/github/followers/3CH0PR3?style=social"> <img src="https://img.shields.io/github/stars/3CH0PR3?style=social"> <img src="https://komarev.com/ghpvc/?username=3CHOPR3">
 </div>
@@ -54,7 +54,7 @@
 
 <br>
 
-## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
+## 💻Tech Stack: 
 <div align=center>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
