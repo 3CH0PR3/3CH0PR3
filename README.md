@@ -4,7 +4,7 @@
 
 <div align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Jh'nmdz
-  <h1></h1>
+  <br>
   Developer FullStack | Technical Content Writer | Data Analysis Enthusiast
 </div>
 
@@ -13,6 +13,8 @@
 <p align="center">
   I like to code, design, innovate and experiment. I am an enthusiastic and sociable person who loves to take on new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </p>
+
+<br>
 
 ## 👨‍💻 About Me:
 <div>
