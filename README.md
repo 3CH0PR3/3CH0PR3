@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me:
 <div>
   
-  - I’m currently working on __[GEA-WRC](https://gea-wrc.com/welcome)__.
+  - I’m currently working on <a href="https://gea-wrc.com/welcome" target="__blank">GEA-WRC</a>
   - I’m currently learning __VueJS__, __NODE__, & __AI__.
   - I’m looking to collaborate on anything!
   - Ask me about anything, I am happy to help.
