@@ -32,7 +32,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=3CH0PR3&theme=react-dark"/>
   
-  <img src="https://img.shields.io/github/followers/3CH0PR3?style=social">
+  
   <img src="https://img.shields.io/github/stars/3CH0PR3?style=social">
   <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
 </div>
