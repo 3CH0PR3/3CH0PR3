@@ -17,6 +17,7 @@
 
 ## 👨‍💻 About Me:
 <div>
+  
   - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
   - I’m currently learning __VueJS__, __NODE__, & __AI__.
   - I’m looking to collaborate on anything!
