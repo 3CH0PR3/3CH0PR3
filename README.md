@@ -25,7 +25,7 @@
 
 <br>
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+# ⭐ About Some Stats <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=3CH0PR3&theme=react-dark"/>
@@ -42,7 +42,7 @@
 
 <Br>
 
-## 🎨 Some of my Projects:
+# 🎨 Some of my Projects: <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp2eWU3ZGV2dHhjNXRrcGxvenJtbTlpbGtqdnhiMTR4amRuNXVuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.webp" width="50px">
 <div>
   <p>
     <a href="https://github.com/3CH0PR3/admin-panel.git">
