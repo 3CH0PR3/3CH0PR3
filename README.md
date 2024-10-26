@@ -28,11 +28,9 @@
 <br>
 
 ## ⭐ About Some Stats
-<img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> 
-<img src="https://img.shields.io/github/followers/3CH0PR3?style=social">
-<img src="https://img.shields.io/github/stars/3CH0PR3?style=social">
-<img src="https://komarev.com/ghpvc/?username=3CHOPR3">
-
+<div>
+  <img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <img src="https://img.shields.io/github/followers/3CH0PR3?style=social"> <img src="https://img.shields.io/github/stars/3CH0PR3?style=social"> <img src="https://komarev.com/ghpvc/?username=3CHOPR3">
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
 </div>
