@@ -12,11 +12,6 @@
 <br>
 <br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/GoodLo0.k/) 
-
-<br>
-<br>
 
 <p align="center">
   Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos desafíos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
