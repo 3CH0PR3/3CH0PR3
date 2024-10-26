@@ -32,8 +32,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=3CH0PR3&theme=react-dark"/>
   
-  ![GitHub followers](https://img.shields.io/github/followers/3CH0PR3?style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/3CH0PR3?style=social)
+  ![GitHub followers] <img src="https://img.shields.io/github/followers/3CH0PR3?style=social">
+  ![GitHub User's stars] <img src="https://img.shields.io/github/stars/3CH0PR3?style=social">
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
 </div>
 
@@ -86,10 +86,8 @@
 </div>
 
 <br>
-<br>
 
-<hr>
-<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me: </h3>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:
 <div align=center>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -97,5 +95,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
------
 Last Edited on: 5/10/2024
