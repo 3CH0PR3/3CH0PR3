@@ -34,7 +34,7 @@
 <br>
 <Br>
 
-<h1>Some of my Projects! 🎨</h1>
+## 🎨 Some of my Projects:
 <div>
   <p>
     <a href="https://github.com/3CH0PR3/admin-panel.git">
