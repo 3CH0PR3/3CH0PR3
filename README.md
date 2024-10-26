@@ -16,18 +16,6 @@
 
 <br>
 
-## 👨‍💻 About Me:
-<div>
-  
-  - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-  - I’m currently learning __VueJS__, __NODE__, & __AI__.
-  - I’m looking to collaborate on anything!
-  - Ask me about anything, I am happy to help.
-  - How to reach me: __z.ayers@icloud.com__
-</div>
-
-<br>
-
 ## ⭐ About Some Stats:
 <div align="center">
   <img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <img src="https://img.shields.io/github/followers/3CH0PR3?style=social"> <img src="https://img.shields.io/github/stars/3CH0PR3?style=social"> <img src="https://komarev.com/ghpvc/?username=3CHOPR3">
