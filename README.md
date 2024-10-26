@@ -18,9 +18,6 @@
 
 <hr>
 
-<br>
-<br>
-
 ##About Me:
 
 - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
@@ -30,6 +27,9 @@
 - How to reach me: __z.ayers@icloud.com__
 
 ---
+
+<br>
+<br>
 
 <div align="center">
   
