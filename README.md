@@ -34,11 +34,16 @@
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div>
+  
+  ![GitHub followers](https://img.shields.io/github/followers/3CHOPR3?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
+  
+</div>
+
 <p align= "center">
 
-  ![GitHub followers](https://img.shields.io/github/followers/3CHOPR3?style=social) 
-  ![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social) 
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
   
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
