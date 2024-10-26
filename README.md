@@ -16,16 +16,17 @@
 </p>
 
 ## 👨‍💻 About Me:
-
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __VueJS__, __NODE__, & __AI__.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- How to reach me: __z.ayers@icloud.com__
+<div>
+  - I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
+  - I’m currently learning __VueJS__, __NODE__, & __AI__.
+  - I’m looking to collaborate on anything!
+  - Ask me about anything, I am happy to help.
+  - How to reach me: __z.ayers@icloud.com__
+</div>
 
 <br>
 
-# ⭐ About Some Stats <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">
+## ⭐ About Some Stats
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=3CH0PR3&theme=react-dark"/>
@@ -42,21 +43,19 @@
 
 <Br>
 
-# 🎨 Some of my Projects: <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp2eWU3ZGV2dHhjNXRrcGxvenJtbTlpbGtqdnhiMTR4amRuNXVuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.webp" width="50px">
+## 🎨 Some of my Projects:
 <div>
-  <p>
     <a href="https://github.com/3CH0PR3/admin-panel.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=admin-panel" alt="GitHub Stats" />
     </a>
     <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a> -->
-  </p>
 </div>
 
 <br>
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> 
 <div align=center>
 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
