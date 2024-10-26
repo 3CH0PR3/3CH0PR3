@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
+<div align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
+</div>
 
 <div align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Jh'nmdz
-  <br>
+  <h1></h1>
   Developer FullStack | Technical Content Writer | Data Analysis Enthusiast
 </div>
 
