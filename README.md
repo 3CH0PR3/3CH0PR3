@@ -41,6 +41,7 @@
 
 <Br>
 
+<!-- 
 ## 🎨 Some of my Projects:
 <div>
     <a href="https://github.com/3CH0PR3/admin-panel.git">
@@ -53,6 +54,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=playerJS" alt="GitHub Stats" />
     </a>
 </div>
+-->
 
 <br>
 
