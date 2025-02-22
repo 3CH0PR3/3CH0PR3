@@ -38,7 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3CH0PR3&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 <div align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=3CH0PR3&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=3CH0PR3&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3CH0PR3&theme=react&layout=compact" />
 </div>
 
