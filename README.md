@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=3CH0PR3&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=3CH0PR3&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3CH0PR3&theme=react&layout=compact&hide_border=true&langs_count=8" />
 </div>
 
