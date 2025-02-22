@@ -42,7 +42,7 @@
 </div>
 
 ## 💻 Technologies & Tools
-## 💻Tech Stack: 
+
 <div align=center>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -80,7 +80,7 @@
   <a href="https://x.com/Andr3sitojh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:andreshmndz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
----
+
 <div align="center">
   <i>Last updated: 5/10/2024</i>
 </div>
